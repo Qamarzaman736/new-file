@@ -1,5 +1,4 @@
-import { div } from 'framer-motion/m';
-import { title } from 'process'
+'use client'
 import React from 'react'
 import { StickyScroll } from './ui/sticky-scroll-reveal';
 
